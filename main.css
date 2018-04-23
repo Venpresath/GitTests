@@ -1,0 +1,17 @@
+body{
+    color: rgb(229, 201, 147);
+}
+
+h1{
+    color: pink;
+}
+
+.nastyH{
+    color: yellow;
+    size: 40px;
+    float: left;
+}
+
+.absurd{
+    color: red;
+}
